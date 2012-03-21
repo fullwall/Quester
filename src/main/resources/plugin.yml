@@ -1,0 +1,5 @@
+name: Quester
+author: aPunch
+version: 0.1
+main: net.apunch.quester.QuesterPlugin
+depend: [Citizens]
