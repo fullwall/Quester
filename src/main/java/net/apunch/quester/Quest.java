@@ -1,8 +1,8 @@
 package net.apunch.quester;
 
-import org.bukkit.entity.Player;
-
 import net.citizensnpcs.api.npc.NPC;
+
+import org.bukkit.entity.Player;
 
 /**
  * Represents a Quest.
